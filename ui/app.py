@@ -27,9 +27,8 @@ with st.expander("ℹ️ About this system"):
 
     **Dataset Details**
     - 🎞 Movies: ~87,000+
-    - 📅 Year coverage: 1900 – 2019
-    - 🌍 Language: Mostly English
-    - 🧠 Algorithm: Content-Based Recommendation using TF-IDF similarity
+    -  Year coverage: 1900 – 2019
+    -  Movie Language: English
     """)
 
 
